@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://feylinara.github.io/en/about/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://feylinara.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://feylinara.github.io/en/about/"
+                />
+  </url><url>
     <loc>https://feylinara.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"

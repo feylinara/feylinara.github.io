@@ -48,6 +48,16 @@
   </url><url>
     <loc>https://feylinara.github.io/about/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://feylinara.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://feylinara.github.io/about/"
+                />
   </url><url>
     <loc>https://feylinara.github.io/categories/</loc>
     <xhtml:link
