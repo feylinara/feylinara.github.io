@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Naomi Schreibt</title>
-    <link>https://feylinara.github.io/en/</link>
-    <description>Recent content on Naomi Schreibt</description>
+    <title>Posts on Naomi Schreibt</title>
+    <link>https://feylinara.github.io/en/posts/</link>
+    <description>Recent content in Posts on Naomi Schreibt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://feylinara.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://feylinara.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transthemen bei der Bundestagswahl</title>
       <link>https://feylinara.github.io/en/posts/wahlprogramme/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://feylinara.github.io/en/posts/wahlprogramme/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;This Post is on German politics, and as such will not be translated to English&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://feylinara.github.io/en/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://feylinara.github.io/en/about/</guid>
-      <description>Hi, I&amp;rsquo;m Fey Naomi. I&amp;rsquo;m planning to use this blog to write about politics and society.</description>
     </item>
     
   </channel>

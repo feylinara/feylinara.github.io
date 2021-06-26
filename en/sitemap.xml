@@ -2,6 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://feylinara.github.io/en/tags/bundestagswahl-2021/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://feylinara.github.io/tags/bundestagswahl-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://feylinara.github.io/en/tags/bundestagswahl-2021/"
+                />
+  </url><url>
+    <loc>https://feylinara.github.io/en/tags/german/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feylinara.github.io/en/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://feylinara.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://feylinara.github.io/en/"
+                />
+  </url><url>
+    <loc>https://feylinara.github.io/en/tags/politics/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feylinara.github.io/en/posts/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://feylinara.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://feylinara.github.io/en/posts/"
+                />
+  </url><url>
+    <loc>https://feylinara.github.io/en/tags/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://feylinara.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://feylinara.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://feylinara.github.io/en/tags/trans/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feylinara.github.io/en/posts/wahlprogramme/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://feylinara.github.io/posts/wahlprogramme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://feylinara.github.io/en/posts/wahlprogramme/"
+                />
+  </url><url>
     <loc>https://feylinara.github.io/en/about/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -25,30 +99,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://feylinara.github.io/en/categories/"
-                />
-  </url><url>
-    <loc>https://feylinara.github.io/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://feylinara.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://feylinara.github.io/en/"
-                />
-  </url><url>
-    <loc>https://feylinara.github.io/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://feylinara.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://feylinara.github.io/en/tags/"
                 />
   </url>
 </urlset>
